@@ -1,7 +1,4 @@
 
-
-# election_results.txt
-
 # Election_Analysis
 
 ## Project Overview
