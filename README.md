@@ -1,6 +1,6 @@
 
 # Election_Analysis
-
+![git-hub](https://github.com/MonaElahi/Election_Analysis_Py/blob/f614873ecb1375ddc261ba4470d6514f08bc6a8f/python-golden-logo-programming-language-brown-metal-background-creative-python-logo.jpg)
 ## Project Overview
 The Colorado Board of Elections employee has given me the following tast to complete the election audit 
 of a recent congressional election.
